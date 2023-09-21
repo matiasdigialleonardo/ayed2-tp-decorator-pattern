@@ -1,0 +1,7 @@
+# Ignore .exe files
+*.exe
+
+# Ignore workspace files (e.g., Visual Studio and IntelliJ IDEA)
+.vscode/
+.idea/
+.vs/
