@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.html": "html",
+			"new": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
